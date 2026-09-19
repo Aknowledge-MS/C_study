@@ -6,3 +6,5 @@
 This contains my first-year university C language course assignments and exercises, updated weekly to record my learning.
 Currently includes: a simplified adapted version of a damage calculator based on the MCG underlying formula.
 Language: C
+
+## 更新日志：C语言伤害计算器已实现防御力与致命值计算。
