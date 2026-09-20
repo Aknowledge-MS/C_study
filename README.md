@@ -8,3 +8,4 @@ Currently includes: a simplified adapted version of a damage calculator based on
 Language: C
 
 ## 更新日志：C语言伤害计算器已实现防御力与致命值计算。
+## 更新日志：新的C语言实验01作业（已完成）
